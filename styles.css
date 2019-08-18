@@ -1,0 +1,29 @@
+h1 {
+    color: green;
+    text-align: center;
+
+}
+h2 {
+	color: B420B8;
+	 text-align: center;
+	width: 400px;
+                height: 100px;
+				border: 1px solid black;
+                padding: 5px;
+}
+h3 {
+	color: yellow;
+}width: 300px;
+                height: 200px;
+h4 {
+	color: 1EDBCE;
+	 text-align: left;
+	 border: 1px solid black;
+                padding: 5px;
+}
+p {
+    color: blue;
+	text-align: center;
+	border: 1px solid black;
+                padding: 5px;
+}
